@@ -160,7 +160,12 @@ cython_debug/
 #.idea/
 
 
-/dataset1/known_images/*
+/dataset1/known_images/normal/*
+/dataset1/known_images/sick/*
 /dataset1/unknown_images/*
 /dataset2/images/*
 /dataset2/unknown_images/*
+
+chest_opacity_model-old.ipynb
+
+/logs
